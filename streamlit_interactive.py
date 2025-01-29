@@ -3,6 +3,7 @@ import json
 import os
 from typing import List
 
+# Imports
 import networkx as nx
 import nltk
 import pandas as pd
@@ -11,7 +12,7 @@ import plotly.graph_objects as go
 import streamlit as st
 from annotated_text import annotated_text, parameters
 from streamlit_extras import add_vertical_space as avs
-from streamlit_extras.badges import badge
+from streamlit_extras.badges import badge 
 
 from scripts import JobDescriptionProcessor, ResumeProcessor
 from scripts.parsers import ParseJobDesc, ParseResume
@@ -19,7 +20,7 @@ from scripts.ReadPdf import read_single_pdf
 from scripts.similarity.get_score import *
 from scripts.utils import get_filenames_from_dir
 
-# Set page configuration
+# Set page configuration and layout
 st.set_page_config(
     page_title="Resume Matcher",
     page_icon="Assets/img/favicon.ico",
