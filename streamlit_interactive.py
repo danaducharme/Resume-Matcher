@@ -85,7 +85,7 @@ def create_star_graph(nodes_and_weights, title):
         graph.add_node(node)
         graph.add_edge(central_node, node, weight=weight * 100)
 
-    # Get position layout for nodes
+    # Get position layout for nodes in the graph
     pos = nx.spring_layout(graph)
 
     # Create edge trace
