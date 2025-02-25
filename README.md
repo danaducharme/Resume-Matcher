@@ -247,7 +247,7 @@ Pull Requests & Issues are not just welcomed, they're celebrated! Let's create t
 
 <div align="center">
 
-## Please support the development by donating.
+## Please support the development by donating. 
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/srbhr)
 [![Sponsor on GitHub](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/srbhr)
@@ -275,3 +275,4 @@ Take the leap, contribute, and let's grow together! 🚀
 <a href="https://github.com/srbhr/Resume-Matcher/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=srbhr/Resume-Matcher" />
 </a>
+<a href="https://github.com/srbhr">Original Author</a>
